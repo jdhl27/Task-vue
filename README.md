@@ -1,6 +1,6 @@
-# tasks
+# Tasks
 
-> A Vue.js project
+> Project to practice vue and firebase
 
 ## Build Setup
 
